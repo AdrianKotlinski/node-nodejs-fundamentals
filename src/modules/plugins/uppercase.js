@@ -1,1 +1,3 @@
-export const run = () => 'HELLO FROM UPPERCASE PLUGIN';
+export const run = () => {
+  return 'HELLO WORLD';
+};

@@ -1,1 +1,3 @@
-export const run = () => 'repeat repeat repeat';
+export const run = () => {
+  return 'hello hello hello';
+};
